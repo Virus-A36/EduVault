@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EduVault:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EduVault_jar</output-path>
+    <root id="archive" name="EduVault.jar">
+      <element id="module-output" name="EduVault" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/4.29.0/protobuf-java-4.29.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/9.2.0/mysql-connector-j-9.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
